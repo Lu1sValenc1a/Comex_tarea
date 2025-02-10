@@ -1,8 +1,8 @@
 document.addEventListener("DOMContentLoaded", () => {
     // Hero background image rotation
     const images = [
-        "/src/img/example1.jpg",
-        "/src/img/example2.jpg"
+        "src/img/example1.jpg",
+        "src/img/example2.jpg"
     ];
     let index = 0;
     const heroSection = document.querySelector(".hero");
